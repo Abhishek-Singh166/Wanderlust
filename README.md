@@ -1,5 +1,12 @@
 # 🏡 Wanderlust
 
+![Node.js](https://img.shields.io/badge/Node.js-20%2B-green)
+![Express.js](https://img.shields.io/badge/Express.js-4.x-lightgrey)
+![MongoDB](https://img.shields.io/badge/MongoDB-Atlas-green)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-Image%20Storage-blue)
+![Mapbox](https://img.shields.io/badge/Mapbox-Maps-orange)
+![Render](https://img.shields.io/badge/Deployed%20on-Render-purple)
+
 Wanderlust is a full-stack web application inspired by modern travel and vacation-rental platforms. It allows users to explore property listings, create and manage their own listings, upload images, leave reviews, and view listing locations on an interactive map.
 
 The project is built using **Node.js, Express.js, MongoDB, EJS, Cloudinary, and Mapbox**.
